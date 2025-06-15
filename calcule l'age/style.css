@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+
+.login{
+text-align: center;
+box-shadow: 8px 8px 8px black;
+height: 150px;
+
+}
+
+.container{
+
+text-align: center;
+
+}
+
+
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
